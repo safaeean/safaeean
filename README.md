@@ -20,26 +20,27 @@ You can find me on [![Twitter][1.1]][2.1],  or on [![LinkedIn][1.2]][2.2],  or o
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/safaeean/safaeean">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaeean&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaeean&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10"/>
 </a>
 <a href="https://github.com/safaeean/safaeean">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=safaeean&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Safaeean's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=safaeean&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Safaeean's GitHub Stats"/>
 </a>
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=safaeean&theme=react-dark&area=true" width="100%">
+
+
+## Public Projects
+<a href="https://github.com/safaeean/react-native-scan-barcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=safaeean&repo=react-native-scan-barcode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  width="49%"/>
+</a>
+
 
 <a href="https://github.com/safaeean/react-native-scan-barcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=safaeean&repo=react-native-scan-barcode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=safaeean&repo=react-native-scan-barcode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="49%">
 </a>
 
-
-<a href="https://github.com/safaeean/react-native-scan-barcode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=safaeean&repo=react-native-scan-barcode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
- <div style="max-width:50%">
-  
-![](https://activity-graph.herokuapp.com/graph?username=safaeean&theme=react-dark&area=true)
-
-</div>
 
 
 ![GitHub forks](https://img.shields.io/github/forks/safaeean/react-native-scan-barcode?style=social)
