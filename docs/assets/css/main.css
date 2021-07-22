@@ -1,0 +1,58 @@
+body {
+    background-color: #f8626e;
+    display: flex;
+}
+
+.content {
+    width: 600px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: #2626264a 0px 0px 20px 1px;
+    margin: auto;
+
+    position: relative;
+}
+
+.content .header, .content .body {
+    padding: 20px;
+
+
+}
+
+.content .header {
+    box-shadow: 0 0px 5px rgb(0 0 0 / 40%);
+    display: flex;
+    justify-content: space-between;
+}
+
+.languages {
+    display: flex;
+    justify-content: center;
+}
+
+.content .body .title {
+    text-align: center;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #f8626e;
+    color: #f8626e;
+    margin: 5px;
+}
+
+.languages a .flag {
+    padding: 2px;
+    border-radius: 2px;
+    border: 1px solid;
+}
+
+.links {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
