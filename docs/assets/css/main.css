@@ -1,6 +1,13 @@
+@import "../fonts/iranyekan/fontiran.css";
+
 body {
     background-color: #f8626e;
+    font-family: iranyekan;
+}
+
+.area {
     display: flex;
+    height: 100%;
 }
 
 .content {
@@ -13,14 +20,47 @@ body {
     position: relative;
 }
 
+#modal {
+    display: none;
+    margin: auto;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#modal .content {
+    width: 1200px;
+    max-width: 80%;
+}
+
+.resume {
+    display: flex;
+}
+
+.close {
+    color: red;
+    background: red;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    padding: 0px;
+    text-align: center;
+    line-height: 19px;
+    font-size: 12px;
+}
+
+.close:hover {
+    color: black;
+}
+
 .content .header, .content .body {
     padding: 20px;
-
-
 }
 
 .content .header {
-    box-shadow: 0 0px 5px rgb(0 0 0 / 40%);
+    box-shadow: 0 0px 10px -5px rgb(0 0 0 / 40%);
     display: flex;
     justify-content: space-between;
 }
@@ -55,4 +95,65 @@ body {
     margin: 10px;
     display: flex;
     justify-content: center;
+}
+
+.resume .side img {
+    width: 250px;
+}
+
+.resume .side .profile {
+    display: flex;
+    align-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid #d9d9d9;
+}
+
+.resume .side .profile-name {
+    margin-top: 5px;
+
+}
+
+.resume .side .job-title {
+    background-color: #4b4b4b7d;
+    padding: 5px;
+    border-radius: 9px;
+    color: #424242;
+    margin: 5px;
+
+}
+
+.resume .side ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.resume .content-area {
+    width: -webkit-fill-available;
+    padding: 0px 25px;
+}
+
+.resume .content-area i {
+    font-size: 8px;
+}
+
+#modal .content-area {
+    max-height: 70%;
+    overflow-y: auto;
+}
+
+.tools {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+progress {
+    height: 25px;
+    width: 100%
+}
+
+.tools img {
+    padding: 15px;
+    height: 30px;
 }
