@@ -5,6 +5,8 @@ working at https://ShirazTakhfif.com
 You can find me on [![Twitter][1.1]][2.1], or on [![LinkedIn][1.2]][2.2], or on [![Instagram][1.3]][2.3], or
 on [![Stackoverflow][1.4]][2.4]
 
+
+## [Go to My Resume][3.1]
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -67,3 +69,6 @@ on [![Stackoverflow][1.4]][2.4]
 [2.3]: https://instagram.com/hossein.piri2603
 
 [2.4]: https://stackoverflow.com/users/6150336/hossein-piri
+
+
+[3.1]: https://resume.safaeean.ir/
