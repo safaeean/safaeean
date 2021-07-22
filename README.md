@@ -55,7 +55,7 @@ on [![Stackoverflow][1.4]][2.4]
 
 
 ![GitHub forks](https://img.shields.io/github/forks/safaeean/react-native-scan-barcode?style=social)
-
+<img src="https://komarev.com/ghpvc/?username=safaeean">
 
 [1.1]: https://image.flaticon.com/icons/png/16/1384/1384017.png (twitter icon without padding)
 
