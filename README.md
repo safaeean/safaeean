@@ -60,10 +60,10 @@ on [![Stackoverflow][1.4]][2.4]
 [1.4]: https://image.flaticon.com/icons/png/16/2111/2111628.png (stackoverflow icon without padding)
 
 
-[2.1]: https://twitter.com/H_o_sse_i_n
+[2.1]: https://twitter.com/piri2603
 
 [2.2]: https://www.linkedin.com/in/hossein-piri-a4891a160/
 
-[2.3]: https://www.linkedin.com/in/hossein-piri-a4891a160/
+[2.3]: https://instagram.com/hossein.piri2603
 
 [2.4]: https://stackoverflow.com/users/6150336/hossein-piri
