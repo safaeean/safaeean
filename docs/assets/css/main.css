@@ -161,3 +161,9 @@ progress {
 a{
     color: black;
 }
+@media (max-width: 1024px) {
+    .resume{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
