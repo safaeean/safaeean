@@ -22,6 +22,7 @@ on [![Stackoverflow][1.4]][2.4]
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CICD-GitlabCI-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
