@@ -48,7 +48,6 @@ on [![Stackoverflow][1.4]][2.4]
 
 #### Javascript tools
 ![](https://img.shields.io/badge/-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -94,11 +93,11 @@ on [![Stackoverflow][1.4]][2.4]
 [1.4]: https://image.flaticon.com/icons/png/16/2111/2111628.png (stackoverflow icon without padding)
 
 
-[2.1]: https://twitter.com/piri2603
+[2.1]: https://twitter.com/hosseinpri
 
 [2.2]: https://www.linkedin.com/in/hossein-piri-a4891a160/
 
-[2.3]: https://instagram.com/hossein.piri2603
+[2.3]: https://instagram.com/hosseinpri
 
 [2.4]: https://stackoverflow.com/users/6150336/hossein-piri
 
