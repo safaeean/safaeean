@@ -11,44 +11,43 @@ on [![Stackoverflow][1.4]][2.4]
 
 
 #### Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CICD-GitlabCI-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Browser-Google%20Chrome-informational?style=flat&logo=googlechrome&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Oh%20My%20Zsh-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Tmux-informational?style=flat&logo=tmux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CICD-GitlabCI-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Google%20Chrome-informational?style=for-the-badge&logo=googlechrome&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Oh%20My%20Zsh-informational?style=for-the-badge&logo=shell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Tmux-informational?style=for-the-badge&logo=tmux&logoColor=white&color=2bbc8a)
 
 
 #### Languages
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Php-informational?style=for-the-badge&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=for-the-badge&logo=npm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Vue.js-informational?style=for-the-badge&logo=vuedotjs&logoColor=white&color=2bbc8a)
 
 #### Databases
-![](https://img.shields.io/badge/Database-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-SQlite-informational?style=flat&logo=SQlite&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database%20Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database%20SearchEngine-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-Mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQlite-informational?style=for-the-badge&logo=SQlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database%20Cache-Redis-informational?style=for-the-badge&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database%20SearchEngine-ElasticSearch-informational?style=for-the-badge&logo=ElasticSearch&logoColor=white&color=2bbc8a)
 
 
 #### Front-end tools
-![](https://img.shields.io/badge/-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-GulpJs-informational?style=flat&logo=gulp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-GulpJs-informational?style=for-the-badge&logo=gulp&logoColor=white&color=2bbc8a)
 
 #### Javascript tools
-![](https://img.shields.io/badge/-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-JQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-JQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -94,11 +93,11 @@ on [![Stackoverflow][1.4]][2.4]
 [1.4]: https://image.flaticon.com/icons/png/16/2111/2111628.png (stackoverflow icon without padding)
 
 
-[2.1]: https://twitter.com/piri2603
+[2.1]: https://twitter.com/hosseinpri
 
 [2.2]: https://www.linkedin.com/in/hossein-piri-a4891a160/
 
-[2.3]: https://instagram.com/hossein.piri2603
+[2.3]: https://instagram.com/hosseinpri
 
 [2.4]: https://stackoverflow.com/users/6150336/hossein-piri
 
