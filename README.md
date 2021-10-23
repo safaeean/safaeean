@@ -6,7 +6,8 @@ You can find me on [![Twitter][1.1]][2.1], or on [![LinkedIn][1.2]][2.2], or on 
 on [![Stackoverflow][1.4]][2.4]
 
 
-## [Go to My Resume][3.1]
+ ## [Go to My Resume][3.1]
+ 
 ## 🔧 Technologies & Tools
 
 
@@ -84,6 +85,9 @@ on [![Stackoverflow][1.4]][2.4]
 ![GitHub forks](https://img.shields.io/github/forks/safaeean/react-native-scan-barcode?style=social)
 <img src="https://komarev.com/ghpvc/?username=safaeean">
 
+ ## [حسین پیری][3.1]
+ ## [Hossein Piri][3.1]
+ 
 [1.1]: https://image.flaticon.com/icons/png/16/1384/1384017.png (twitter icon without padding)
 
 [1.2]: https://image.flaticon.com/icons/png/16/2111/2111432.png (github icon without padding)
