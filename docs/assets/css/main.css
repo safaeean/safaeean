@@ -76,6 +76,11 @@ body {
     padding: 15px;
 }
 
+.area .content .header .title {
+    font-size: 26px;
+    padding-top: 30px;
+}
+
 .btn {
     text-decoration: none;
     padding: 10px;
